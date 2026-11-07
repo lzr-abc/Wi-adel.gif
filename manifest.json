@@ -2,12 +2,12 @@
   "repo": "lzr-abc/Wi-adel.gif",
   "generated_at": "2026-11-07T08:51:59Z",
   "source_repo": "https://github.com/ykuang771-afk/Codex_Pet_WISADEL",
-  "naming": "uploaded/ 下的文件按原文件名排序重命名为 wisadel-NN.<ext>，original_name 保留投稿时的原始文件名",
+  "naming": "memes/ 下的文件按原文件名排序重命名为 wisadel-NN.<ext>，original_name 保留投稿时的原始文件名",
   "summary": {
     "gif_count": 17,
-    "uploaded_count": 11,
     "total_files": 28,
-    "total_bytes": 17464807
+    "total_bytes": 17464807,
+    "memes_count": 11
   },
   "gif": [
     {
@@ -181,12 +181,12 @@
       "source": "stickers/移动.gif"
     }
   ],
-  "uploaded": [
+  "memes": [
     {
       "bytes": 239987,
       "sha256": "8636bb7d88ff9ebb63f4e09844b706cd436c3990fb41f10c7da65f3285923460",
       "format": "png",
-      "file": "uploaded/wisadel-01.png",
+      "file": "memes/wisadel-01.png",
       "original_name": "1793263685553.png"
     },
     {
@@ -196,21 +196,21 @@
       "dimensions": "496x496",
       "frames": 9,
       "looping": true,
-      "file": "uploaded/wisadel-02.gif",
+      "file": "memes/wisadel-02.gif",
       "original_name": "1793263803241.gif"
     },
     {
       "bytes": 14164,
       "sha256": "b4602727cb1b00e879be00f8881d872ca420e970507a57e354a4c5b479164893",
       "format": "png",
-      "file": "uploaded/wisadel-03.png",
+      "file": "memes/wisadel-03.png",
       "original_name": "1793263808668.png"
     },
     {
       "bytes": 127853,
       "sha256": "a42aed01fed8bedade44d7baf1e00c260b1c1aa623de9e8632da75d1e3d4fffd",
       "format": "jpeg",
-      "file": "uploaded/wisadel-04.jpeg",
+      "file": "memes/wisadel-04.jpeg",
       "original_name": "1793263811183.jpeg"
     },
     {
@@ -220,7 +220,7 @@
       "dimensions": "294x294",
       "frames": 3,
       "looping": true,
-      "file": "uploaded/wisadel-05.gif",
+      "file": "memes/wisadel-05.gif",
       "original_name": "1793263825339.gif"
     },
     {
@@ -230,35 +230,35 @@
       "dimensions": "480x270",
       "frames": 66,
       "looping": true,
-      "file": "uploaded/wisadel-06.gif",
+      "file": "memes/wisadel-06.gif",
       "original_name": "1793263838873.gif"
     },
     {
       "bytes": 49826,
       "sha256": "32fe3c69a6dd99f5a7908e18148b967adffa25074f51bdb9d28851ab645efaa3",
       "format": "jpeg",
-      "file": "uploaded/wisadel-07.jpeg",
+      "file": "memes/wisadel-07.jpeg",
       "original_name": "1793263843854.jpeg"
     },
     {
       "bytes": 108016,
       "sha256": "9380f8c958be44ce79e64ee912ad2baf565590ad56d11300ef1f80652ef021ec",
       "format": "jpeg",
-      "file": "uploaded/wisadel-08.jpeg",
+      "file": "memes/wisadel-08.jpeg",
       "original_name": "1793263845831.jpeg"
     },
     {
       "bytes": 253572,
       "sha256": "9ff6d255ce7d1c3da1b29db61b886b34be18ddb6e4680a960dc074ba8fa8cd8d",
       "format": "jpeg",
-      "file": "uploaded/wisadel-09.jpeg",
+      "file": "memes/wisadel-09.jpeg",
       "original_name": "1793263855433.jpeg"
     },
     {
       "bytes": 43950,
       "sha256": "2814a9dd93cf487005c124350ce2164b368b75e3edad1c55a2308abd0a985daf",
       "format": "jpeg",
-      "file": "uploaded/wisadel-10.jpeg",
+      "file": "memes/wisadel-10.jpeg",
       "original_name": "1793263863858.jpeg"
     },
     {
@@ -268,7 +268,7 @@
       "dimensions": "300x412",
       "frames": 87,
       "looping": true,
-      "file": "uploaded/wisadel-11.gif",
+      "file": "memes/wisadel-11.gif",
       "original_name": "1793263873186.gif"
     }
   ]

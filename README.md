@@ -3,11 +3,11 @@
 本仓库包含两部分资源：
 
 - `gif/` —— 从 [ykuang771-afk/Codex_Pet_WISADEL](https://github.com/ykuang771-afk/Codex_Pet_WISADEL) 提取的全部 GIF（docs/previews 的宠物动作预览 + stickers 的表情包）
-- `uploaded/` —— 手动投稿的 WISADEL 相关图片（PNG / JPEG / 动图 GIF），已重命名为 `wisadel-NN` 形式
+- `memes/` —— 手动投稿的 WISADEL 梗图（PNG / JPEG / 动图 GIF），已重命名为 `wisadel-NN` 形式
 
-共 17 个 GIF + 11 个投稿图片。
+共 17 个 GIF + 11 张梗图。
 
-完整清单见 [`manifest.json`](./manifest.json)：逐文件的字节数、帧数、尺寸、sha256，以及 GIF 的原始来源路径与投稿文件的原文件名。
+完整清单见 [`manifest.json`](./manifest.json)：逐文件的字节数、帧数、尺寸、sha256，以及 GIF 的原始来源路径与梗图的原文件名。
 
 ## gif/
 
@@ -31,21 +31,21 @@
 | `gif/16_点击宠物.gif` | 32,125 B | 144x156 | 5 | `stickers/点击宠物.gif` |
 | `gif/17_移动.gif` | 302,312 B | 276x326 | 14 | `stickers/移动.gif` |
 
-## uploaded/
+## memes/
 
 | 文件 | 原文件名 | 大小 | 尺寸 | 帧数 |
 | --- | --- | --- | --- | --- |
-| `uploaded/wisadel-01.png` | 1793263685553.png | 239,987 B | - | 静态 |
-| `uploaded/wisadel-02.gif` | 1793263803241.gif | 1,012,716 B | 496x496 | 9 |
-| `uploaded/wisadel-03.png` | 1793263808668.png | 14,164 B | - | 静态 |
-| `uploaded/wisadel-04.jpeg` | 1793263811183.jpeg | 127,853 B | - | 静态 |
-| `uploaded/wisadel-05.gif` | 1793263825339.gif | 67,769 B | 294x294 | 3 |
-| `uploaded/wisadel-06.gif` | 1793263838873.gif | 2,070,446 B | 480x270 | 66 |
-| `uploaded/wisadel-07.jpeg` | 1793263843854.jpeg | 49,826 B | - | 静态 |
-| `uploaded/wisadel-08.jpeg` | 1793263845831.jpeg | 108,016 B | - | 静态 |
-| `uploaded/wisadel-09.jpeg` | 1793263855433.jpeg | 253,572 B | - | 静态 |
-| `uploaded/wisadel-10.jpeg` | 1793263863858.jpeg | 43,950 B | - | 静态 |
-| `uploaded/wisadel-11.gif` | 1793263873186.gif | 4,570,878 B | 300x412 | 87 |
+| `memes/wisadel-01.png` | 1793263685553.png | 239,987 B | - | 静态 |
+| `memes/wisadel-02.gif` | 1793263803241.gif | 1,012,716 B | 496x496 | 9 |
+| `memes/wisadel-03.png` | 1793263808668.png | 14,164 B | - | 静态 |
+| `memes/wisadel-04.jpeg` | 1793263811183.jpeg | 127,853 B | - | 静态 |
+| `memes/wisadel-05.gif` | 1793263825339.gif | 67,769 B | 294x294 | 3 |
+| `memes/wisadel-06.gif` | 1793263838873.gif | 2,070,446 B | 480x270 | 66 |
+| `memes/wisadel-07.jpeg` | 1793263843854.jpeg | 49,826 B | - | 静态 |
+| `memes/wisadel-08.jpeg` | 1793263845831.jpeg | 108,016 B | - | 静态 |
+| `memes/wisadel-09.jpeg` | 1793263855433.jpeg | 253,572 B | - | 静态 |
+| `memes/wisadel-10.jpeg` | 1793263863858.jpeg | 43,950 B | - | 静态 |
+| `memes/wisadel-11.gif` | 1793263873186.gif | 4,570,878 B | 300x412 | 87 |
 
 ---
 
