@@ -1,7 +1,8 @@
 {
   "repo": "lzr-abc/Wi-adel.gif",
-  "generated_at": "2026-11-07T08:48:09Z",
+  "generated_at": "2026-11-07T08:51:59Z",
   "source_repo": "https://github.com/ykuang771-afk/Codex_Pet_WISADEL",
+  "naming": "uploaded/ 下的文件按原文件名排序重命名为 wisadel-NN.<ext>，original_name 保留投稿时的原始文件名",
   "summary": {
     "gif_count": 17,
     "uploaded_count": 11,
@@ -10,254 +11,265 @@
   },
   "gif": [
     {
-      "file": "gif/01_failed.gif",
       "bytes": 591144,
       "sha256": "db0ceee9aa88a058aa107bbfc699107bbdd556463bbe5bc0574bcfcba2d4437b",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 35,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/failed.gif"
+      "file": "gif/01_failed.gif",
+      "source": ""
     },
     {
-      "file": "gif/02_idle.gif",
       "bytes": 663257,
       "sha256": "b2ee92ae837764aa772b696c3915c78a504f5bdaecc36c2ca24e709049c523c5",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 38,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/idle.gif"
+      "file": "gif/02_idle.gif",
+      "source": ""
     },
     {
-      "file": "gif/03_jumping.gif",
       "bytes": 404118,
       "sha256": "9efb001c5103d6cd03daca6e5b551d6f19573d157ea11a46c94f7fbdf2192296",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 23,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/jumping.gif"
+      "file": "gif/03_jumping.gif",
+      "source": ""
     },
     {
-      "file": "gif/04_look-directions.gif",
       "bytes": 263154,
       "sha256": "405c05a6db29ef8b1e6ebd45fc1b39b30f1bd0cb625b70b6721f4888e93382cc",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 16,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/look-directions.gif"
+      "file": "gif/04_look-directions.gif",
+      "source": ""
     },
     {
-      "file": "gif/05_review.gif",
       "bytes": 536045,
       "sha256": "efa7b10a8b42a639ab456d45df657d34ad89f7045d6ecf514f7c932770200ee7",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 32,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/review.gif"
+      "file": "gif/05_review.gif",
+      "source": ""
     },
     {
-      "file": "gif/06_running-left.gif",
       "bytes": 473263,
       "sha256": "058fe36a285a91cce2975d3a7258e047299ab2fe63042ca5d60922136bfa331a",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 28,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/running-left.gif"
+      "file": "gif/06_running-left.gif",
+      "source": ""
     },
     {
-      "file": "gif/07_running-right.gif",
       "bytes": 473279,
       "sha256": "6d276b9b8ee7117979433c3fea38a27097cccf0ba75b893afe2e83d2339aeb59",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 28,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/running-right.gif"
+      "file": "gif/07_running-right.gif",
+      "source": ""
     },
     {
-      "file": "gif/08_running.gif",
       "bytes": 639571,
       "sha256": "338154761b832d0085b01dc3acbb2f98b25dd2e29f329684efb98ec124d2b8af",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 38,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/running.gif"
+      "file": "gif/08_running.gif",
+      "source": ""
     },
     {
-      "file": "gif/09_waiting.gif",
       "bytes": 505271,
       "sha256": "2703bf7aca22eca620acf0f6184e9ee6b51ba8069f7790faaa29ee05de44e7d9",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 30,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/waiting.gif"
+      "file": "gif/09_waiting.gif",
+      "source": ""
     },
     {
-      "file": "gif/10_waving.gif",
       "bytes": 639571,
       "sha256": "338154761b832d0085b01dc3acbb2f98b25dd2e29f329684efb98ec124d2b8af",
       "format": "GIF89a",
       "dimensions": "192x208",
       "frames": 38,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/docs/previews/waving.gif"
+      "file": "gif/10_waving.gif",
+      "source": ""
     },
     {
-      "file": "gif/11_任务已经完成了.gif",
       "bytes": 688944,
       "sha256": "04e556bee041def198aa4895cd364a2d1fa1821c3d9490ed9f283c62b7d7ed3c",
       "format": "GIF89a",
       "dimensions": "260x301",
       "frames": 32,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/stickers/任务已经完成了.gif"
+      "file": "gif/11_任务已经完成了.gif",
+      "source": ""
     },
     {
-      "file": "gif/12_刚开始任务、鼠标放置在宠物上.gif",
       "bytes": 836184,
       "sha256": "e73fd6279a61dae687170b59218fea4771d521e5dc5bf0765cf366152a2f9231",
       "format": "GIF89a",
       "dimensions": "249x297",
       "frames": 38,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/stickers/刚开始任务、鼠标放置在宠物上.gif"
+      "file": "gif/12_刚开始任务、鼠标放置在宠物上.gif",
+      "source": ""
     },
     {
-      "file": "gif/13_发癫（5小时token少于20%或者周额度剩余少于10%）.gif",
       "bytes": 765402,
       "sha256": "0a1a006e634b9c04a4e6a9b93f8940e96c573a74e305abf5cf1fdd4c4524b18c",
       "format": "GIF89a",
       "dimensions": "426x373",
       "frames": 35,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/stickers/发癫（5小时token少于20%或者周额度剩余少于10%）.gif"
+      "file": "gif/13_发癫（5小时token少于20%或者周额度剩余少于10%）.gif",
+      "source": ""
     },
     {
-      "file": "gif/14_如果需要我进行有关任务的问题回答（单选、多选等）.gif",
       "bytes": 667357,
       "sha256": "83935858ab745aa01926cc51ffaaf1c9e9e56612f64eef3cb2a737b3b38e0d6a",
       "format": "GIF89a",
       "dimensions": "346x312",
       "frames": 30,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/stickers/如果需要我进行有关任务的问题回答（单选、多选等）.gif"
+      "file": "gif/14_如果需要我进行有关任务的问题回答（单选、多选等）.gif",
+      "source": ""
     },
     {
-      "file": "gif/15_待机休息1.gif",
       "bytes": 424633,
       "sha256": "e57aee5d1fa7a085f0fee72158c81ff42a3e60ba5decd7778d306288867ce638",
       "format": "GIF89a",
       "dimensions": "327x295",
       "frames": 19,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/stickers/待机休息1.gif"
+      "file": "gif/15_待机休息1.gif",
+      "source": ""
     },
     {
-      "file": "gif/16_点击宠物.gif",
       "bytes": 32125,
       "sha256": "f375801a72e09735076a9a43d925a2803f32a273783389fda17bb3098c2ab069",
       "format": "GIF89a",
       "dimensions": "144x156",
       "frames": 5,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/stickers/点击宠物.gif"
+      "file": "gif/16_点击宠物.gif",
+      "source": ""
     },
     {
-      "file": "gif/17_移动.gif",
       "bytes": 302312,
       "sha256": "cfffcd6b9ffc0fe6264d7460314441701c532ba0ec5ae2b424d3a0b6e878fd2a",
       "format": "GIF89a",
       "dimensions": "276x326",
       "frames": 14,
       "looping": true,
-      "source": "Codex_Pet_WISADEL-main/stickers/移动.gif"
+      "file": "gif/17_移动.gif",
+      "source": ""
     }
   ],
   "uploaded": [
     {
-      "file": "uploaded/1793263685553.png",
       "bytes": 239987,
       "sha256": "8636bb7d88ff9ebb63f4e09844b706cd436c3990fb41f10c7da65f3285923460",
-      "format": "png"
+      "format": "png",
+      "file": "uploaded/wisadel-01.png",
+      "original_name": "1793263685553.png"
     },
     {
-      "file": "uploaded/1793263803241.gif",
       "bytes": 1012716,
       "sha256": "d0039b4be474cb3040de521636f6104afe72ab73eb0c993d2b8d8dfbde1272ba",
       "format": "GIF89a",
       "dimensions": "496x496",
       "frames": 9,
-      "looping": true
+      "looping": true,
+      "file": "uploaded/wisadel-02.gif",
+      "original_name": "1793263803241.gif"
     },
     {
-      "file": "uploaded/1793263808668.png",
       "bytes": 14164,
       "sha256": "b4602727cb1b00e879be00f8881d872ca420e970507a57e354a4c5b479164893",
-      "format": "png"
+      "format": "png",
+      "file": "uploaded/wisadel-03.png",
+      "original_name": "1793263808668.png"
     },
     {
-      "file": "uploaded/1793263811183.jpeg",
       "bytes": 127853,
       "sha256": "a42aed01fed8bedade44d7baf1e00c260b1c1aa623de9e8632da75d1e3d4fffd",
-      "format": "jpeg"
+      "format": "jpeg",
+      "file": "uploaded/wisadel-04.jpeg",
+      "original_name": "1793263811183.jpeg"
     },
     {
-      "file": "uploaded/1793263825339.gif",
       "bytes": 67769,
       "sha256": "feeee936318cf16c116f9d6812d7569fce6d20d7380912fd890dbe3041ee613a",
       "format": "GIF89a",
       "dimensions": "294x294",
       "frames": 3,
-      "looping": true
+      "looping": true,
+      "file": "uploaded/wisadel-05.gif",
+      "original_name": "1793263825339.gif"
     },
     {
-      "file": "uploaded/1793263838873.gif",
       "bytes": 2070446,
       "sha256": "26269905dabeef06ab19ca1299e92fd7c6ef5b5adcf1b928a10701ad6e5f3638",
       "format": "GIF89a",
       "dimensions": "480x270",
       "frames": 66,
-      "looping": true
+      "looping": true,
+      "file": "uploaded/wisadel-06.gif",
+      "original_name": "1793263838873.gif"
     },
     {
-      "file": "uploaded/1793263843854.jpeg",
       "bytes": 49826,
       "sha256": "32fe3c69a6dd99f5a7908e18148b967adffa25074f51bdb9d28851ab645efaa3",
-      "format": "jpeg"
+      "format": "jpeg",
+      "file": "uploaded/wisadel-07.jpeg",
+      "original_name": "1793263843854.jpeg"
     },
     {
-      "file": "uploaded/1793263845831.jpeg",
       "bytes": 108016,
       "sha256": "9380f8c958be44ce79e64ee912ad2baf565590ad56d11300ef1f80652ef021ec",
-      "format": "jpeg"
+      "format": "jpeg",
+      "file": "uploaded/wisadel-08.jpeg",
+      "original_name": "1793263845831.jpeg"
     },
     {
-      "file": "uploaded/1793263855433.jpeg",
       "bytes": 253572,
       "sha256": "9ff6d255ce7d1c3da1b29db61b886b34be18ddb6e4680a960dc074ba8fa8cd8d",
-      "format": "jpeg"
+      "format": "jpeg",
+      "file": "uploaded/wisadel-09.jpeg",
+      "original_name": "1793263855433.jpeg"
     },
     {
-      "file": "uploaded/1793263863858.jpeg",
       "bytes": 43950,
       "sha256": "2814a9dd93cf487005c124350ce2164b368b75e3edad1c55a2308abd0a985daf",
-      "format": "jpeg"
+      "format": "jpeg",
+      "file": "uploaded/wisadel-10.jpeg",
+      "original_name": "1793263863858.jpeg"
     },
     {
-      "file": "uploaded/1793263873186.gif",
       "bytes": 4570878,
       "sha256": "bc9b3dc228c81bc55ac8117777475f976ef7df5ad651e2a4fb4ae908ea3ee2da",
       "format": "GIF89a",
       "dimensions": "300x412",
       "frames": 87,
-      "looping": true
+      "looping": true,
+      "file": "uploaded/wisadel-11.gif",
+      "original_name": "1793263873186.gif"
     }
   ]
 }
