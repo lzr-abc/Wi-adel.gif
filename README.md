@@ -20,7 +20,7 @@
 | `gif/05_review.gif` | 536,045 B | 192x208 | 32 | `docs/previews/review.gif` |
 | `gif/06_running-left.gif` | 473,263 B | 192x208 | 28 | `docs/previews/running-left.gif` |
 | `gif/07_running-right.gif` | 473,279 B | 192x208 | 28 | `docs/previews/running-right.gif` |
-| `gif/08_running.gif` | 639,571 B | 192x208 | 38 | `docs/previews/waving.gif` |
+| `gif/08_running.gif` | 639,571 B | 192x208 | 38 | `docs/previews/running.gif` |
 | `gif/09_waiting.gif` | 505,271 B | 192x208 | 30 | `docs/previews/waiting.gif` |
 | `gif/10_waving.gif` | 639,571 B | 192x208 | 38 | `docs/previews/waving.gif` |
 | `gif/11_任务已经完成了.gif` | 688,944 B | 260x301 | 32 | `stickers/任务已经完成了.gif` |
