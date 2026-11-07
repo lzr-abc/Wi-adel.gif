@@ -3,7 +3,7 @@
 本仓库包含两部分资源：
 
 - `gif/` —— 从 [ykuang771-afk/Codex_Pet_WISADEL](https://github.com/ykuang771-afk/Codex_Pet_WISADEL) 提取的全部 GIF（docs/previews 的宠物动作预览 + stickers 的表情包）
-- `uploaded/` —— 手动投稿的 WISADEL 相关图片（PNG / JPEG / GIF）
+- `uploaded/` —— 手动投稿的 WISADEL 相关图片（PNG / JPEG / 动图 GIF）
 
 共 17 个 GIF + 11 个投稿图片。
 
@@ -31,20 +31,20 @@
 
 ## uploaded/
 
-| 文件 | 大小 |
-| --- | --- |
-| `uploaded/1793263685553.png` | 239,987 B |
-| `uploaded/1793263803241.gif` | 36,572 B |
-| `uploaded/1793263808668.png` | 14,164 B |
-| `uploaded/1793263811183.jpeg` | 127,853 B |
-| `uploaded/1793263825339.gif` | 16,898 B |
-| `uploaded/1793263838873.gif` | 8,319 B |
-| `uploaded/1793263843854.jpeg` | 49,826 B |
-| `uploaded/1793263845831.jpeg` | 108,016 B |
-| `uploaded/1793263855433.jpeg` | 253,572 B |
-| `uploaded/1793263863858.jpeg` | 43,950 B |
-| `uploaded/1793263873186.gif` | 12,547 B |
+| 文件 | 大小 | 尺寸 | 帧数 |
+| --- | --- | --- | --- |
+| `uploaded/1793263685553.png` | 239,987 B | - | 静态 |
+| `uploaded/1793263803241.gif` | 1,012,716 B | 496x496 | 9 |
+| `uploaded/1793263808668.png` | 14,164 B | - | 静态 |
+| `uploaded/1793263811183.jpeg` | 127,853 B | - | 静态 |
+| `uploaded/1793263825339.gif` | 67,769 B | 294x294 | 3 |
+| `uploaded/1793263838873.gif` | 2,070,446 B | 480x270 | 66 |
+| `uploaded/1793263843854.jpeg` | 49,826 B | - | 静态 |
+| `uploaded/1793263845831.jpeg` | 108,016 B | - | 静态 |
+| `uploaded/1793263855433.jpeg` | 253,572 B | - | 静态 |
+| `uploaded/1793263863858.jpeg` | 43,950 B | - | 静态 |
+| `uploaded/1793263873186.gif` | 4,570,878 B | 300x412 | 87 |
 
 ---
 
-> 说明：`uploaded/` 里的 GIF 来自聊天附件链路，可能已被规整为单帧静态图（原多帧动图请以原始文件为准）。
+> `uploaded/` 里 4 个动图（1793263803241 / 1793263825339 / 1793263838873 / 1793263873186）已替换为原始多帧 GIF。
