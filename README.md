@@ -13,23 +13,23 @@
 
 | 文件 | 大小 | 尺寸 | 帧数 | 原始路径 |
 | --- | --- | --- | --- | --- |
-| `gif/01_failed.gif` | 591,144 B | 192x208 | 35 | `` |
-| `gif/02_idle.gif` | 663,257 B | 192x208 | 38 | `` |
-| `gif/03_jumping.gif` | 404,118 B | 192x208 | 23 | `` |
-| `gif/04_look-directions.gif` | 263,154 B | 192x208 | 16 | `` |
-| `gif/05_review.gif` | 536,045 B | 192x208 | 32 | `` |
-| `gif/06_running-left.gif` | 473,263 B | 192x208 | 28 | `` |
-| `gif/07_running-right.gif` | 473,279 B | 192x208 | 28 | `` |
-| `gif/08_running.gif` | 639,571 B | 192x208 | 38 | `` |
-| `gif/09_waiting.gif` | 505,271 B | 192x208 | 30 | `` |
-| `gif/10_waving.gif` | 639,571 B | 192x208 | 38 | `` |
-| `gif/11_任务已经完成了.gif` | 688,944 B | 260x301 | 32 | `` |
-| `gif/12_刚开始任务、鼠标放置在宠物上.gif` | 836,184 B | 249x297 | 38 | `` |
-| `gif/13_发癫（5小时token少于20%或者周额度剩余少于10%）.gif` | 765,402 B | 426x373 | 35 | `` |
-| `gif/14_如果需要我进行有关任务的问题回答（单选、多选等）.gif` | 667,357 B | 346x312 | 30 | `` |
-| `gif/15_待机休息1.gif` | 424,633 B | 327x295 | 19 | `` |
-| `gif/16_点击宠物.gif` | 32,125 B | 144x156 | 5 | `` |
-| `gif/17_移动.gif` | 302,312 B | 276x326 | 14 | `` |
+| `gif/01_failed.gif` | 591,144 B | 192x208 | 35 | `docs/previews/failed.gif` |
+| `gif/02_idle.gif` | 663,257 B | 192x208 | 38 | `docs/previews/idle.gif` |
+| `gif/03_jumping.gif` | 404,118 B | 192x208 | 23 | `docs/previews/jumping.gif` |
+| `gif/04_look-directions.gif` | 263,154 B | 192x208 | 16 | `docs/previews/look-directions.gif` |
+| `gif/05_review.gif` | 536,045 B | 192x208 | 32 | `docs/previews/review.gif` |
+| `gif/06_running-left.gif` | 473,263 B | 192x208 | 28 | `docs/previews/running-left.gif` |
+| `gif/07_running-right.gif` | 473,279 B | 192x208 | 28 | `docs/previews/running-right.gif` |
+| `gif/08_running.gif` | 639,571 B | 192x208 | 38 | `docs/previews/waving.gif` |
+| `gif/09_waiting.gif` | 505,271 B | 192x208 | 30 | `docs/previews/waiting.gif` |
+| `gif/10_waving.gif` | 639,571 B | 192x208 | 38 | `docs/previews/waving.gif` |
+| `gif/11_任务已经完成了.gif` | 688,944 B | 260x301 | 32 | `stickers/任务已经完成了.gif` |
+| `gif/12_刚开始任务、鼠标放置在宠物上.gif` | 836,184 B | 249x297 | 38 | `stickers/刚开始任务、鼠标放置在宠物上.gif` |
+| `gif/13_发癫（5小时token少于20%或者周额度剩余少于10%）.gif` | 765,402 B | 426x373 | 35 | `stickers/发癫（5小时token少于20%或者周额度剩余少于10%）.gif` |
+| `gif/14_如果需要我进行有关任务的问题回答（单选、多选等）.gif` | 667,357 B | 346x312 | 30 | `stickers/如果需要我进行有关任务的问题回答（单选、多选等）.gif` |
+| `gif/15_待机休息1.gif` | 424,633 B | 327x295 | 19 | `stickers/待机休息1.gif` |
+| `gif/16_点击宠物.gif` | 32,125 B | 144x156 | 5 | `stickers/点击宠物.gif` |
+| `gif/17_移动.gif` | 302,312 B | 276x326 | 14 | `stickers/移动.gif` |
 
 ## uploaded/
 

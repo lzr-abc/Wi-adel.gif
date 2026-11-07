@@ -18,7 +18,7 @@
       "frames": 35,
       "looping": true,
       "file": "gif/01_failed.gif",
-      "source": ""
+      "source": "docs/previews/failed.gif"
     },
     {
       "bytes": 663257,
@@ -28,7 +28,7 @@
       "frames": 38,
       "looping": true,
       "file": "gif/02_idle.gif",
-      "source": ""
+      "source": "docs/previews/idle.gif"
     },
     {
       "bytes": 404118,
@@ -38,7 +38,7 @@
       "frames": 23,
       "looping": true,
       "file": "gif/03_jumping.gif",
-      "source": ""
+      "source": "docs/previews/jumping.gif"
     },
     {
       "bytes": 263154,
@@ -48,7 +48,7 @@
       "frames": 16,
       "looping": true,
       "file": "gif/04_look-directions.gif",
-      "source": ""
+      "source": "docs/previews/look-directions.gif"
     },
     {
       "bytes": 536045,
@@ -58,7 +58,7 @@
       "frames": 32,
       "looping": true,
       "file": "gif/05_review.gif",
-      "source": ""
+      "source": "docs/previews/review.gif"
     },
     {
       "bytes": 473263,
@@ -68,7 +68,7 @@
       "frames": 28,
       "looping": true,
       "file": "gif/06_running-left.gif",
-      "source": ""
+      "source": "docs/previews/running-left.gif"
     },
     {
       "bytes": 473279,
@@ -78,7 +78,7 @@
       "frames": 28,
       "looping": true,
       "file": "gif/07_running-right.gif",
-      "source": ""
+      "source": "docs/previews/running-right.gif"
     },
     {
       "bytes": 639571,
@@ -88,7 +88,7 @@
       "frames": 38,
       "looping": true,
       "file": "gif/08_running.gif",
-      "source": ""
+      "source": "docs/previews/waving.gif"
     },
     {
       "bytes": 505271,
@@ -98,7 +98,7 @@
       "frames": 30,
       "looping": true,
       "file": "gif/09_waiting.gif",
-      "source": ""
+      "source": "docs/previews/waiting.gif"
     },
     {
       "bytes": 639571,
@@ -108,7 +108,7 @@
       "frames": 38,
       "looping": true,
       "file": "gif/10_waving.gif",
-      "source": ""
+      "source": "docs/previews/waving.gif"
     },
     {
       "bytes": 688944,
@@ -118,7 +118,7 @@
       "frames": 32,
       "looping": true,
       "file": "gif/11_任务已经完成了.gif",
-      "source": ""
+      "source": "stickers/任务已经完成了.gif"
     },
     {
       "bytes": 836184,
@@ -128,7 +128,7 @@
       "frames": 38,
       "looping": true,
       "file": "gif/12_刚开始任务、鼠标放置在宠物上.gif",
-      "source": ""
+      "source": "stickers/刚开始任务、鼠标放置在宠物上.gif"
     },
     {
       "bytes": 765402,
@@ -138,7 +138,7 @@
       "frames": 35,
       "looping": true,
       "file": "gif/13_发癫（5小时token少于20%或者周额度剩余少于10%）.gif",
-      "source": ""
+      "source": "stickers/发癫（5小时token少于20%或者周额度剩余少于10%）.gif"
     },
     {
       "bytes": 667357,
@@ -148,7 +148,7 @@
       "frames": 30,
       "looping": true,
       "file": "gif/14_如果需要我进行有关任务的问题回答（单选、多选等）.gif",
-      "source": ""
+      "source": "stickers/如果需要我进行有关任务的问题回答（单选、多选等）.gif"
     },
     {
       "bytes": 424633,
@@ -158,7 +158,7 @@
       "frames": 19,
       "looping": true,
       "file": "gif/15_待机休息1.gif",
-      "source": ""
+      "source": "stickers/待机休息1.gif"
     },
     {
       "bytes": 32125,
@@ -168,7 +168,7 @@
       "frames": 5,
       "looping": true,
       "file": "gif/16_点击宠物.gif",
-      "source": ""
+      "source": "stickers/点击宠物.gif"
     },
     {
       "bytes": 302312,
@@ -178,7 +178,7 @@
       "frames": 14,
       "looping": true,
       "file": "gif/17_移动.gif",
-      "source": ""
+      "source": "stickers/移动.gif"
     }
   ],
   "uploaded": [
