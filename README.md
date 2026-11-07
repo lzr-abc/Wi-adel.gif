@@ -49,4 +49,4 @@
 
 ---
 
-> `uploaded/wisadel-01` ~ `wisadel-04` 为原始多帧 GIF（其余静态图）。
+> 动图（多帧 GIF）：`wisadel-02.gif`, `wisadel-05.gif`, `wisadel-06.gif`, `wisadel-11.gif`；其余为静态图。
